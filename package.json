@@ -1,0 +1,20 @@
+{
+  "name": "Unique-Thinking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almeidaandrede/Unique-Thinking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almeidaandrede/Unique-Thinking/issues"
+  },
+  "homepage": "https://github.com/almeidaandrede/Unique-Thinking#readme"
+}
